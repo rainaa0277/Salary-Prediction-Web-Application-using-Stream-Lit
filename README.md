@@ -1,2 +1,5 @@
-# Salary-Prediction-Web-Application-using-Stream-Lit
-Using StreamLit library, we have created a web application which will use ML algorithm in backend to predict the estimated salary.
+INTRODUCTION
+
+We have prepared a model which can estimate the Data Science jobs according to different countries.
+
+We have used Stream lit library to prepare a website which will show our predictions and visualizations.
